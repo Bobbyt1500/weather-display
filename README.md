@@ -8,6 +8,6 @@ If you want to use this follow these steps:
 3. In the directory, run: ```pip install -r requirements.txt``` this will install any required python packages you do not have
 4. You are good to go! Just run main.py to start the display: ```python main.py```
 
-**Note: This is designed for a 1280x1024 display and most likely will not look good on other sizes without tweaking**
+**Note: This is designed for a 1280x1024 display and most likely will not look good on other sizes without modification**
 
 For more information on this display, go to my website: https://robertthierry.com/programming/weather-display.html
